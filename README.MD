@@ -78,6 +78,7 @@ python start.py
 
 
 Если у вас нужно много денег для бота, то вы можете использовать RDP или VPS хостинг для работы 24/7 без остановки скрипта.
+```
 
 # Подписывайте:
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
