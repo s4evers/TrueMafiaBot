@@ -1,6 +1,6 @@
 # MafiaBot Automation
 
-Автоматизация регистрации и игры в бота [TrueMafiaBot](https://t.me/TrueMafiaBot) через несколько аккаунтов Telegram с помощью библиотеки **Telethon**.
+Автоматизация регистрации заработка игры в бота [TrueMafiaBot](https://t.me/TrueMafiaBot) через несколько аккаунтов Telegram с помощью библиотеки **Telethon**.
 
 ## Описание
 
